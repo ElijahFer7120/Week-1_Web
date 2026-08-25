@@ -1,6 +1,6 @@
 body {
-    color: #86f859;
-    background:rgb(41, 34, 34) ;
+    color: #acf88e;
+    background:rgb(33, 32, 32) ;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -10,9 +10,9 @@ h1 {
 
 p {
     max-width: 520px;
-    line-height: 1;
+    line-height: 1.3;
 }
 
 a {
-    color: silver;
+    color: rgba(243, 232, 232, 0.881);
 }
