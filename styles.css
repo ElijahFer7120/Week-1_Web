@@ -1,14 +1,14 @@
 
 body {
     margin: 0;
-    color: #acf88e;
+    color: #91fa67;
     background:rgb(33, 32, 32) ;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     line-height: 1.5;
 }
 
 .site-header {
-    background: black;
+    background: rgb(41, 248, 48);
     color: rgb(231, 26, 26);
     padding: 24px;
 }
