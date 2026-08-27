@@ -8,7 +8,7 @@ body {
 }
 
 .site-header {
-    background: rgb(41, 248, 48);
+    background: rgb(60, 255, 86);
     color: rgb(231, 26, 26);
     padding: 24px;
 }
@@ -23,7 +23,7 @@ body {
 }
 
 .nav-list a {
-    color:rgb(233, 230, 230);
+    color:rgb(169, 169, 169);
     font-weight:bold;
 }
 
